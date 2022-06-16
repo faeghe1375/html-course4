@@ -1,0 +1,24 @@
+/* body{
+  background-image: url('img/download (1).jfif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-attachment: scroll;
+  background-attachment: local;
+} */
+p{
+  border: 5px dotted green;
+padding: 10px;
+background-color: lightblue;
+}
+.border-box{
+  background-clip: border-box;
+}
+.padding-box{
+  background-clip:padding-box;
+}
+.content-box{
+  background-clip: content-box;
+}
+.text{
+  background-clip:text;
+}

@@ -1,0 +1,16 @@
+div{
+  /* border-style: dashed; */
+  /* border-style: dotted; */
+  border-style: solid;
+  /* border-style: double; */
+  /* border-style: groove; */
+  /* border-style: ridge; */
+  /* border-style: inset; */
+  /* border-style: outset; */
+  /* border-style: none; */
+  /* border-style: hidden; */
+/* border-width: thick; */
+/* border-width: 3px 5px; */
+border-width: 2px 4px 6px 8px;
+
+}
